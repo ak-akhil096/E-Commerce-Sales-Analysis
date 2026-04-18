@@ -1,1 +1,1 @@
-Analyzed an e-commerce dataset using Python to uncover sales trends, customer behavior, and delivery performance. Performed data cleaning, EDA, and visualization to identify top products, regional patterns, and factors affecting customer satisfaction, helping improve business decisions in marketing, inventory, and logistics.
+This project focuses on analyzing an e-commerce transaction dataset to extract meaningful business insights related to sales performance, customer behavior, and delivery efficiency.
